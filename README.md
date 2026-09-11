@@ -237,4 +237,4 @@ This repository serves as the official landing page for Google Refine. The softw
 **Get the most recent version of Google Refine today!**
 
 ---
-**Last updated:** 2026-09-10 23:38:52 UTC
+**Last updated:** 2026-09-11 02:42:59 UTC
